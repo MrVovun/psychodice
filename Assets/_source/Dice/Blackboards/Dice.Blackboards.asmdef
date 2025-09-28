@@ -1,0 +1,17 @@
+{
+    "name": "Dice.Blackboards",
+    "rootNamespace": "",
+    "references": [
+        "GUID:241e512d8f727a1439d9b69e10c14e62",
+        "GUID:467d080f46256e640beb59feb5aa1397"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,553 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7899037842226701929
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d94e4d16c32d4354919ca310e9b07591, type: 3}
+  m_Name: AdjustmentsVol
+  m_EditorClassIdentifier: 
+  active: 1
+  m_Tint:
+    m_OverrideState: 0
+    m_Value: {r: 1, g: 1, b: 1, a: 1}
+  m_Threshold:
+    m_OverrideState: 0
+    m_Value:
+      _curve:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      _pixels:
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+  m_Hue:
+    m_OverrideState: 0
+    m_Value: 0.56
+  m_Saturation:
+    m_OverrideState: 0
+    m_Value: -0.56
+  m_Brightness:
+    m_OverrideState: 1
+    m_Value: 0.04
+  m_Contrast:
+    m_OverrideState: 1
+    m_Value: 0
+  m_Alpha:
+    m_OverrideState: 1
+    m_Value: 1
+--- !u!114 &-6826884782127923359
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03592b0b6d784e6da6ea74233ca33d52, type: 3}
+  m_Name: GrainVol
+  m_EditorClassIdentifier: 
+  active: 1
+  m_Grain:
+    m_OverrideState: 1
+    m_Value: 3
+  m_Response:
+    m_OverrideState: 0
+    m_Value:
+      _curve:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      _pixels:
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+  m_Brightness:
+    m_OverrideState: 0
+    m_Value: 1
+  m_Hue:
+    m_OverrideState: 0
+    m_Value: 1
+  m_Saturation:
+    m_OverrideState: 0
+    m_Value: 1
+  m_GainTex:
+    m_OverrideState: 1
+    m_Value: 11
+  m_Alpha:
+    m_OverrideState: 1
+    m_Value: 0
+  m_Color:
+    m_OverrideState: 0
+    m_Value: {r: 1, g: 1, b: 1, a: 0}
+  m_Fps:
+    m_OverrideState: 1
+    m_Value: 7
+  m_Scale:
+    m_OverrideState: 1
+    m_Value: -0.01
+  m_Texture:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+--- !u!114 &-1767510863824451957
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e3b43e232564d52b710c4bdc0cd6e42, type: 3}
+  m_Name: ColorMapVol
+  m_EditorClassIdentifier: 
+  active: 1
+  m_Weight:
+    m_OverrideState: 1
+    m_Value: 1
+  m_Gradient:
+    m_OverrideState: 1
+    m_Value:
+      _grad:
+        serializedVersion: 2
+        key0: {r: 0.011764707, g: 0.16470589, b: 0.21960786, a: 0}
+        key1: {r: 0.16015485, g: 0.46765688, b: 0.5566038, a: 1}
+        key2: {r: 0.69411767, g: 0.40000004, b: 0.4784314, a: 1}
+        key3: {r: 0.69803923, g: 0.654902, b: 0.52156866, a: 0}
+        key4: {r: 1, g: 0.9587264, b: 0.8349056, a: 0}
+        key5: {r: 1, g: 1, b: 1, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 193
+        ctime1: 5012
+        ctime2: 6746
+        ctime3: 15420
+        ctime4: 17348
+        ctime5: 61295
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 386
+        atime2: 64764
+        atime3: 65535
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_ColorSpace: 0
+        m_NumColorKeys: 6
+        m_NumAlphaKeys: 4
+      _pixels:
+      - {r: 0.011764707, g: 0.16470589, b: 0.21960786, a: 0}
+      - {r: 0.07091852, g: 0.2854734, b: 0.35394692, a: 1}
+      - {r: 0.13601534, g: 0.418374, b: 0.50178266, a: 1}
+      - {r: 0.5697409, g: 0.41575944, b: 0.4966402, a: 1}
+      - {r: 0.6948908, g: 0.45025542, b: 0.48693615, a: 1}
+      - {r: 0.6958466, g: 0.51238024, b: 0.4974496, a: 1}
+      - {r: 0.6968024, g: 0.5745051, b: 0.50796306, a: 1}
+      - {r: 0.69775814, g: 0.63662994, b: 0.5184765, a: 1}
+      - {r: 0.93175465, g: 0.8900598, b: 0.76408917, a: 1}
+      - {r: 1, g: 0.9603026, b: 0.8412104, a: 1}
+      - {r: 1, g: 0.962288, b: 0.84915215, a: 1}
+      - {r: 1, g: 0.96427345, b: 0.8570939, a: 1}
+      - {r: 1, g: 0.9662589, b: 0.8650356, a: 1}
+      - {r: 1, g: 0.9682443, b: 0.87297726, a: 1}
+      - {r: 1, g: 0.97022974, b: 0.88091904, a: 1}
+      - {r: 1, g: 0.9722152, b: 0.8888607, a: 1}
+      - {r: 1, g: 0.9742006, b: 0.8968024, a: 1}
+      - {r: 1, g: 0.97618604, b: 0.9047442, a: 1}
+      - {r: 1, g: 0.97817147, b: 0.9126859, a: 1}
+      - {r: 1, g: 0.9801569, b: 0.92062765, a: 1}
+      - {r: 1, g: 0.9821423, b: 0.9285693, a: 1}
+      - {r: 1, g: 0.98412776, b: 0.93651104, a: 1}
+      - {r: 1, g: 0.9861132, b: 0.94445276, a: 1}
+      - {r: 1, g: 0.9880986, b: 0.9523945, a: 1}
+      - {r: 1, g: 0.99008405, b: 0.9603362, a: 1}
+      - {r: 1, g: 0.9920695, b: 0.96827793, a: 1}
+      - {r: 1, g: 0.9940549, b: 0.97621965, a: 1}
+      - {r: 1, g: 0.99604034, b: 0.9841614, a: 1}
+      - {r: 1, g: 0.9980258, b: 0.9921031, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 0}
+  m_Offset:
+    m_OverrideState: 1
+    m_Value: 0
+  m_Mask:
+    m_OverrideState: 1
+    m_Value: {x: 0, y: 1}
+  m_Palette:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  m_Impact:
+    m_OverrideState: 0
+    m_Value:
+      _curve:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      _pixels:
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+      - {r: 0, g: 0, b: 0, a: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+  m_Name: Dice_DicePlayer
+  m_EditorClassIdentifier: 
+  components:
+  - {fileID: -6826884782127923359}
+  - {fileID: 6821453246589788655}
+  - {fileID: -1767510863824451957}
+  - {fileID: -7899037842226701929}
+  - {fileID: 3450555010392025805}
+--- !u!114 &3450555010392025805
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f78702826206e0c478e7ba859ee1aa90, type: 3}
+  m_Name: SharpenVol
+  m_EditorClassIdentifier: 
+  active: 1
+  m_Impact:
+    m_OverrideState: 1
+    m_Value: 0.03
+  m_Thikness:
+    m_OverrideState: 0
+    m_Value: 0.05
+  m_Value:
+    m_OverrideState: 0
+    m_Value:
+      _curve:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      _pixels:
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+      - {r: 1, g: 1, b: 1, a: 1}
+  m_Tint:
+    m_OverrideState: 0
+    m_Value: {r: 1, g: 1, b: 1, a: 1}
+  m_OffsetX:
+    m_OverrideState: 0
+    m_Value: 0
+  m_OffsetY:
+    m_OverrideState: 0
+    m_Value: 0
+--- !u!114 &6821453246589788655
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2303f781f6c04e428d9eb352fa4be37e, type: 3}
+  m_Name: OutlineVol
+  m_EditorClassIdentifier: 
+  active: 1
+  m_Sensitive:
+    m_OverrideState: 1
+    m_Value: 0.436
+  m_Thickness:
+    m_OverrideState: 1
+    m_Value: 0.004
+  m_Color:
+    m_OverrideState: 1
+    m_Value:
+      _grad:
+        serializedVersion: 2
+        key0: {r: 0.043137256, g: 0.16078432, b: 0.21568629, a: 1}
+        key1: {r: 0, g: 0, b: 0, a: 1}
+        key2: {r: 0, g: 0, b: 0, a: 0}
+        key3: {r: 0, g: 0, b: 0, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 65535
+        ctime2: 0
+        ctime3: 0
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_ColorSpace: 0
+        m_NumColorKeys: 2
+        m_NumAlphaKeys: 2
+      _pixels:
+      - {r: 0.043137256, g: 0.16078432, b: 0.21568629, a: 1}
+      - {r: 0.041745733, g: 0.15559773, b: 0.20872867, a: 1}
+      - {r: 0.040354207, g: 0.15041114, b: 0.20177105, a: 1}
+      - {r: 0.038962685, g: 0.14522454, b: 0.19481343, a: 1}
+      - {r: 0.03757116, g: 0.14003795, b: 0.18785581, a: 1}
+      - {r: 0.036179636, g: 0.13485137, b: 0.18089819, a: 1}
+      - {r: 0.03478811, g: 0.12966478, b: 0.17394055, a: 1}
+      - {r: 0.033396587, g: 0.12447818, b: 0.16698293, a: 1}
+      - {r: 0.03200506, g: 0.11929159, b: 0.16002531, a: 1}
+      - {r: 0.030613538, g: 0.114105, b: 0.1530677, a: 1}
+      - {r: 0.029222012, g: 0.10891841, b: 0.14611007, a: 1}
+      - {r: 0.027830489, g: 0.103731826, b: 0.13915244, a: 1}
+      - {r: 0.026438965, g: 0.09854523, b: 0.13219482, a: 1}
+      - {r: 0.02504744, g: 0.093358636, b: 0.1252372, a: 1}
+      - {r: 0.023655916, g: 0.08817205, b: 0.118279584, a: 1}
+      - {r: 0.022264391, g: 0.08298546, b: 0.11132196, a: 1}
+      - {r: 0.020872867, g: 0.077798866, b: 0.104364336, a: 1}
+      - {r: 0.01948134, g: 0.07261227, b: 0.09740671, a: 1}
+      - {r: 0.018089818, g: 0.06742568, b: 0.090449095, a: 1}
+      - {r: 0.016698292, g: 0.062239088, b: 0.08349146, a: 1}
+      - {r: 0.015306769, g: 0.0570525, b: 0.076533854, a: 1}
+      - {r: 0.013915243, g: 0.051865906, b: 0.06957622, a: 1}
+      - {r: 0.01252372, g: 0.046679325, b: 0.0626186, a: 1}
+      - {r: 0.011132196, g: 0.041492723, b: 0.055660978, a: 1}
+      - {r: 0.009740673, g: 0.036306143, b: 0.048703358, a: 1}
+      - {r: 0.008349147, g: 0.03111954, b: 0.041745737, a: 1}
+      - {r: 0.006957624, g: 0.025932953, b: 0.034788117, a: 1}
+      - {r: 0.005566098, g: 0.020746365, b: 0.027830482, a: 1}
+      - {r: 0.004174575, g: 0.015559778, b: 0.020872876, a: 1}
+      - {r: 0.002783049, g: 0.010373175, b: 0.013915241, a: 1}
+      - {r: 0.0013915263, g: 0.0051866025, b: 0.0069576353, a: 1}
+      - {r: 0, g: 0, b: 0, a: 1}
+  m_Fill:
+    m_OverrideState: 0
+    m_Value: {r: 0.024741882, g: 0.034848277, b: 0.03773582, a: 1}
+  m_Mode:
+    m_OverrideState: 1
+    m_Value: 3
+  m_Sharp:
+    m_OverrideState: 0
+    m_Value: 1
+  m_Adaptive:
+    m_OverrideState: 1
+    m_Value: 1
+  m_Remap:
+    m_OverrideState: 0
+    m_Value: 0

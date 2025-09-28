@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b26d9c84a69f24b4697e32ab468ad776, type: 3}
+  m_Name: GameAssets
+  m_EditorClassIdentifier: Dice.Blackboards::BB_GameAssets
+  color: {r: 1, g: 1, b: 1, a: 1}
+  isRuntime: 0
+  _serializedMode: 1
+  dice_6: {fileID: 0}
+  dice_4: {fileID: 0}
+  dice_20: {fileID: 0}

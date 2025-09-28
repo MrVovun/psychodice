@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b090d9d80a68c74e925dbd9a9aa2110, type: 3}
+  m_Name: Debug
+  m_EditorClassIdentifier: Dice.Blackboards::BB_Debug
+  color: {r: 1, g: 1, b: 1, a: 1}
+  isRuntime: 0
+  _serializedMode: 0
+  debugLaunchDiceRequest:
+    _unitySerializePleaseHack: 0
+  useDesiredOutcome:
+    _serializedMode: 0
+    value: 0
+  debugPopulatePlayerSelection:
+    _serializedMode: 0
+    value:
+    - die: {fileID: 3728371830750292706, guid: 0c34ecc5a0ef2cf429c3a8e4b4d99111, type: 3}
+      desiredOutcome: 3
+    - die: {fileID: 3728371830750292706, guid: 0c34ecc5a0ef2cf429c3a8e4b4d99111, type: 3}
+      desiredOutcome: 3
+    - die: {fileID: 3728371830750292706, guid: 0c34ecc5a0ef2cf429c3a8e4b4d99111, type: 3}
+      desiredOutcome: 3
+    - die: {fileID: 3728371830750292706, guid: 0c34ecc5a0ef2cf429c3a8e4b4d99111, type: 3}
+      desiredOutcome: 3
+    - die: {fileID: 3728371830750292706, guid: 0c34ecc5a0ef2cf429c3a8e4b4d99111, type: 3}
+      desiredOutcome: 3
+    - die: {fileID: 3728371830750292706, guid: 0c34ecc5a0ef2cf429c3a8e4b4d99111, type: 3}
+      desiredOutcome: 3

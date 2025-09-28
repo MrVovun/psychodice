@@ -1,0 +1,19 @@
+{
+    "name": "Dice.Dice",
+    "rootNamespace": "",
+    "references": [
+        "GUID:467d080f46256e640beb59feb5aa1397",
+        "GUID:241e512d8f727a1439d9b69e10c14e62",
+        "GUID:7a0606bc4a53e4a4fa01d902e729bd7d",
+        "GUID:564c5a47173c11a459a9745e1a7f9b65"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

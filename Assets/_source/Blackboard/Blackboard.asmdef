@@ -1,0 +1,16 @@
+{
+    "name": "Blackboard",
+    "rootNamespace": "",
+    "references": [
+        "GUID:564c5a47173c11a459a9745e1a7f9b65"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

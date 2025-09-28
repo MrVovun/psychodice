@@ -1,0 +1,19 @@
+{
+    "name": "Dice.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:241e512d8f727a1439d9b69e10c14e62",
+        "GUID:564c5a47173c11a459a9745e1a7f9b65"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

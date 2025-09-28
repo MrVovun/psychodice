@@ -1,0 +1,16 @@
+{
+    "name": "Dice.Core",
+    "rootNamespace": "",
+    "references": [
+        "GUID:241e512d8f727a1439d9b69e10c14e62"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
